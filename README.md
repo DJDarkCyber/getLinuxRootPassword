@@ -1,0 +1,2 @@
+# getLinuxRootPassword
+Kinda social engineering 

